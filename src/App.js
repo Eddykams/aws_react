@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Bon nous allons mettre en place une page personnelle
         </a>
       </header>
     </div>
